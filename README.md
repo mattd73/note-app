@@ -1,5 +1,7 @@
 # note-app
 
+Note App with ReactJS, practicing functional components, props, conditional rendering, MaterialUI
+
 download and run through your local host.
 
 to do this:
